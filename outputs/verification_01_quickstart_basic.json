@@ -1,0 +1,6 @@
+{
+  "script": "01_quickstart_basic.py",
+  "sales_rows": 55,
+  "high_value_rows": 44,
+  "quick_report_exists": true
+}

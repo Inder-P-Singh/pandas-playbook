@@ -1,0 +1,12 @@
+{
+  "script": "02_cleaning_and_dtypes.py",
+  "final_rows": 55,
+  "nulls_in_amount": 0,
+  "customer_id_dtype": "Int64",
+  "cleaned_sales_exists": true,
+  "memory_optimized_columns": {
+    "product": "category",
+    "category": "category",
+    "region": "category"
+  }
+}

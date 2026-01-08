@@ -1,0 +1,16 @@
+region,category,total_sales,order_count
+Central,Accessories,94.97,1
+Central,Electronics,227.39999999999998,2
+Central,Peripherals,246.55,2
+East,Accessories,271.69,1
+East,Electronics,1406.54,7
+East,Peripherals,520.06,4
+North,Accessories,327.46000000000004,2
+North,Electronics,770.4300000000001,5
+North,Peripherals,449.15999999999997,3
+South,Accessories,0.0,0
+South,Electronics,900.5500000000001,4
+South,Peripherals,732.12,4
+West,Accessories,229.54,2
+West,Electronics,1775.11,10
+West,Peripherals,299.4,3

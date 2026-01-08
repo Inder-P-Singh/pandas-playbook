@@ -1,0 +1,11 @@
+{
+  "script": "03_groupby_merge_pivot.py",
+  "region_summary_rows": 5,
+  "merged_left_rows": 55,
+  "merged_inner_rows": 50,
+  "pivot_table_shape": [
+    5,
+    3
+  ],
+  "aggregated_plot_exists": true
+}

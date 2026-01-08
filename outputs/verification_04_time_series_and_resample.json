@@ -1,0 +1,8 @@
+{
+  "script": "04_time_series_and_resample.py",
+  "sales_ts_rows": 55,
+  "monthly_sales_periods": 12,
+  "time_series_report_exists": true,
+  "monthly_sales_plot_exists": true,
+  "rolling_mean_plot_exists": true
+}
