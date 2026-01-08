@@ -65,3 +65,6 @@ For a quick video overview, check out this Pandas Tutorial for Beginners (6 min)
 © 2026 Software and Testing Training — Inder P Singh
 Commercial use, redistribution, or resale requires permission.
 
+## License
+This project is released under a proprietary license.
+See LICENSE.txt for details.
