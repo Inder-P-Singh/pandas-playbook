@@ -1,0 +1,41 @@
+Proprietary License
+Copyright © 2026 Software and Testing Training
+Author: Inder P Singh
+
+All rights reserved.
+
+This repository and its contents, including but not limited to source code,
+scripts, documentation, playbooks, examples, diagrams, and written material
+(the “Materials”), are the proprietary intellectual property of
+Software and Testing Training and Inder P Singh.
+
+Permission is hereby granted to any individual to view, download, and run the
+Materials for personal, educational, or internal evaluation purposes only.
+
+The following actions are strictly prohibited without prior written permission
+from the copyright holder:
+
+1. Commercial use of the Materials, in whole or in part
+2. Redistribution or republishing of the Materials
+3. Resale, sublicensing, or inclusion of the Materials in paid products,
+   courses, training programs, or services
+4. Modification and redistribution of derivative works
+5. Claiming authorship or ownership of the Materials
+
+This repository is provided for learning, demonstration, and evaluation
+purposes only. No license is granted for commercial exploitation.
+
+THE MATERIALS ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OF THE MATERIALS.
+
+For commercial licensing, training, enablement, POCs, or redistribution
+permissions, contact:
+
+Software and Testing Training  
+Author: Inder P Singh  
+LinkedIn: https://www.linkedin.com/in/inderpsingh/
+
+By accessing or using this repository, you agree to the terms of this license.
