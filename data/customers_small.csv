@@ -1,0 +1,26 @@
+customer_id,name,signup_date,segment
+101,Customer 101,2022-01-01,Retail
+102,Customer 102,2023-05-16,SMB
+103,Customer 103,2022-12-24,SMB
+104,Customer 104,2022-04-18,Retail
+105,Customer 105,2022-02-23,Retail
+106,Customer 106,2022-06-25,Enterprise
+107,Customer 107,2023-01-13,Retail
+108,Customer 108,2023-04-20,SMB
+109,Customer 109,2023-05-24,Retail
+110,Customer 110,2023-03-24,Enterprise
+111,Customer 111,2022-07-28,Retail
+112,Customer 112,2022-03-10,Retail
+113,Customer 113,2023-06-03,SMB
+114,Customer 114,2022-09-08,Retail
+115,Customer 115,2023-07-02,SMB
+116,Customer 116,2022-05-09,Retail
+117,Customer 117,2023-05-15,Education
+118,Customer 118,2022-10-18,SMB
+119,Customer 119,2023-05-17,Retail
+120,Customer 120,2022-09-17,Enterprise
+121,Customer 121,2022-08-07,Retail
+122,Customer 122,2023-04-21,SMB
+123,Customer 123,2023-01-01,Retail
+124,Customer 124,2022-06-12,SMB
+125,Customer 125,2023-04-03,Retail
